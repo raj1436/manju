@@ -1,4 +1,4 @@
-#! bin/sh
+#! /bin/sh
 echo "Enter Amount:"
 read p
 echo "Enter Time:"
